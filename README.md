@@ -74,3 +74,19 @@ transferFrom(address from, address to, uint256 amount) → returns bool
 
 
 
+## Learning Outcomes
+```
+- How to write and deploy a smart contract in Solidity
+
+- The core components of the ERC-20 token standard
+
+- How balance tracking, allowances, and transfers work internally
+
+- Using Remix IDE to compile, deploy, and test contracts
+
+- The importance of validation checks and event emission
+
+- How token decimals and total supply are represented on Ethereum
+
+This project gave me a clear foundation in smart contract development and practical blockchain concepts.
+```
