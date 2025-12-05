@@ -75,7 +75,7 @@ transferFrom(address from, address to, uint256 amount) → returns bool
 
 
 ## Learning Outcomes
-```
+
 - How to write and deploy a smart contract in Solidity
 
 - The core components of the ERC-20 token standard
@@ -89,4 +89,4 @@ transferFrom(address from, address to, uint256 amount) → returns bool
 - How token decimals and total supply are represented on Ethereum
 
 This project gave me a clear foundation in smart contract development and practical blockchain concepts.
-```
+
